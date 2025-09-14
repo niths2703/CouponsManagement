@@ -11,7 +11,10 @@ This is a backend application designed to manage and apply coupons for an ecomme
 
 Separate Json files are being maintained to list down the products. Buy and Get Array Product lists are maintained with Buy Array in higher price ranges and Get Array in lower price ranges as per business needs.
 
-A seaprate cron job method is being used to deactivate the coupons in use after 2 months.
+A separate cron job method is being used to deactivate the coupons in use after 2 months.
+The additional considerations that have been added for the mentioned APIs in the document:
+1. A field brand had been considered for each product to distinguish between the products and also limit of BxGy offers within a brand.
+2. The repetition limit for every user(mobile number) to use the BxGy coupon is initially 2.
 
 As mentioned, there are 3 types of Coupons being used here :
 
