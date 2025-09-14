@@ -1,0 +1,26 @@
+[
+  { "productId": 21, "price": 400, "brand": "Nike" },
+{ "productId": 22, "price": 350, "brand": "Adidas" },
+{ "productId": 23, "price": 300, "brand": "Puma" },
+{ "productId": 24, "price": 250, "brand": "Reebok" },
+
+{ "productId": 25, "price": 420, "brand": "Nike" },
+{ "productId": 26, "price": 370, "brand": "Adidas" },
+{ "productId": 27, "price": 320, "brand": "Puma" },
+{ "productId": 28, "price": 280, "brand": "Reebok" },
+
+{ "productId": 29, "price": 410, "brand": "Nike" },
+{ "productId": 30, "price": 360, "brand": "Adidas" },
+{ "productId": 31, "price": 330, "brand": "Puma" },
+{ "productId": 32, "price": 290, "brand": "Reebok" },
+
+{ "productId": 33, "price": 430, "brand": "Nike" },
+{ "productId": 34, "price": 340, "brand": "Adidas" },
+{ "productId": 35, "price": 310, "brand": "Puma" },
+{ "productId": 36, "price": 270, "brand": "Reebok" },
+
+{ "productId": 37, "price": 440, "brand": "Nike" },
+{ "productId": 38, "price": 380, "brand": "Adidas" },
+{ "productId": 39, "price": 350, "brand": "Puma" },
+{ "productId": 40, "price": 260, "brand": "Reebok" }
+]

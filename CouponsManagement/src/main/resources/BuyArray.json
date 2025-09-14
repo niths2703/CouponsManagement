@@ -1,0 +1,26 @@
+[
+  { "productId": 1, "price": 1200, "brand": "Nike" },
+  { "productId": 2, "price": 1300, "brand": "Adidas" },
+  { "productId": 3, "price": 1400, "brand": "Puma" },
+  { "productId": 4, "price": 1500, "brand": "Reebok" },
+
+  { "productId": 5, "price": 1250, "brand": "Nike" },
+  { "productId": 6, "price": 1350, "brand": "Adidas" },
+  { "productId": 7, "price": 1450, "brand": "Puma" },
+  { "productId": 8, "price": 1550, "brand": "Reebok" },
+
+  { "productId": 9, "price": 1600, "brand": "Nike" },
+  { "productId": 10, "price": 1700, "brand": "Adidas" },
+  { "productId": 11, "price": 1800, "brand": "Puma" },
+  { "productId": 12, "price": 1900, "brand": "Reebok" },
+
+  { "productId": 13, "price": 2000, "brand": "Nike" },
+  { "productId": 14, "price": 2100, "brand": "Adidas" },
+  { "productId": 15, "price": 2200, "brand": "Puma" },
+  { "productId": 16, "price": 2300, "brand": "Reebok" },
+
+  { "productId": 17, "price": 2400, "brand": "Nike" },
+  { "productId": 18, "price": 2500, "brand": "Adidas" },
+  { "productId": 19, "price": 2600, "brand": "Puma" },
+  { "productId": 20, "price": 2700, "brand": "Reebok" }
+]

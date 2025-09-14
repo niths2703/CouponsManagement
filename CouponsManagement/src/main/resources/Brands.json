@@ -1,0 +1,5 @@
+[ { "brandId": 1,  "brand": "Nike" },
+  { "brandId": 2,  "brand": "Adidas" },
+  { "brandId": 3,  "brand": "Puma" },
+  { "brandId": 4,  "brand": "Reebok" }
+]
