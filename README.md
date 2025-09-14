@@ -3,6 +3,9 @@
 
 <img width="349" height="250" alt="image" src="https://github.com/user-attachments/assets/841db419-cac0-434b-96ac-fd52f5ba7cb6" />
 
+Tech Stack : Java, SpringBoot
+Database: Postgresql
+
 This is a backend application designed to manage and apply coupons for an ecommerce website or application. Admin can maintain creation/updating/deletion of the coupons through CRUD APIs. A user can access and avail the desired coupons by using user-application APIs and also select the type of coupon from Cart-Wise, Product- wise or BxGy Coupons.
 
 Separate Json files are being maintained to list down the products. Buy and Get Array Product lists are maintained with Buy Array in higher price ranges and Get Array in lower price ranges as per business needs.
