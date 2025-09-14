@@ -39,3 +39,7 @@ Buy and Get array products are maintained in Json files which are stored in stat
 4. Total Discount of Cart is visible in Response . Total discount per product has not been handled in the response for now.
 5. User Login APIs need to be made for handling user roles. Admin will be able to manage CRUD APIs for Coupons. While a customer can see the applicable coupons for his cart and also apply the desired coupon by its id.
 
+# Sample Table images :
+<img width="722" height="198" alt="image" src="https://github.com/user-attachments/assets/69e8ed38-5c50-4d7a-9713-998fb71cd45a" />
+
+
