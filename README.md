@@ -42,6 +42,9 @@ Buy and Get array products are maintained in Json files which are stored in stat
 # Sample Table images :
 <img width="722" height="198" alt="image" src="https://github.com/user-attachments/assets/69e8ed38-5c50-4d7a-9713-998fb71cd45a" />
 
+<img width="527" height="107" alt="image" src="https://github.com/user-attachments/assets/64491343-19d8-4d36-a2b4-9c5175d0ede0" />
+
+
 # Details Json : 
 Cart:
 <img width="219" height="59" alt="image" src="https://github.com/user-attachments/assets/a3bd3c9d-3b14-4290-999a-3dd63bd2f367" />
