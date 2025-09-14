@@ -34,7 +34,6 @@ public class CouponApplicationServiceImpl implements CouponApplicationService {
     @Value("${get.array.end}")
     private Integer getArrayEnd;
 
-
     public ApplicableCouponsResponse applicableCouponsResponse(CartRequest cartRequest){
         Long cartTotal = cartRequest.getCart().getItems().stream()
                 .mapToLong(i -> i.getPrice())
@@ -197,8 +196,6 @@ public class CouponApplicationServiceImpl implements CouponApplicationService {
         else{
             throw new CouponException("No Such Coupon Type");
         }
-
-   //   return null;
     }
 
     private UpdatedCart updateCartForCartWise(List<CartItems> cartItems, long totalPrice, long finalPrice){
@@ -219,6 +216,4 @@ public class CouponApplicationServiceImpl implements CouponApplicationService {
                 .totalDiscount(totalPrice - finalPrice).shippingCharges(100).build();
     }
 
-
-    /// make different methods for diff types for handling shipping charges and discount
 }
